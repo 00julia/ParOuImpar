@@ -1,4 +1,37 @@
 body{
     background-color: rgb(47, 142, 142);
   
-} 
+}  .h1{
+    font-size: 40px;
+    font-family: 'Raleway', sans-serif;
+    margin-left: 11.7em;
+}
+
+.button{
+  
+padding: 10px 20px;
+background-color: #4CAF50; 
+color: white; 
+border: none;
+border-radius: 5px;
+cursor: pointer;
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+transition: background-color 0.3s ease; 
+margin-left: 40em;
+
+}
+
+.botao:hover {
+background-color: #45a049; 
+
+
+}
+
+.p{
+font-family: 'Raleway', sans-serif;
+margin-left: 31.6em;
+}
+
+.body{
+background-color: aqua;
+}
